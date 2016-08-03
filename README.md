@@ -1,8 +1,16 @@
-#HTML5 flappy bird
+#HTML5 flappy BIRL
 
-play here: http://hyspace.io/flappy/
+play here: https://gcabrini.github.io/flappyBirl/
 
 based on http://uralozden.com/flappy/
+
+## Authors
+Cássio <cms.usp@gmail.com>
+Luiz <luiz.tnk@gmail.com>
+Renan <renanmarinsmachado@gmail.com>
+Taco <tacobarry@gmail.com>
+Cabrini <gcabrini.silva@gmail.com>
+
 
 ##License
 
